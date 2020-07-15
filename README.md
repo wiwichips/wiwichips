@@ -11,9 +11,9 @@
 * Founder of BCOMP forum
 * Listening to Music
 * Going on walks
-* Making videos and short films
+* secret group project
 
-🎯 Goals 🎯
+🎯 Summer Goals 🎯
 * Make something cool in webassembly
-* Learn something interesting with Data Science
-* Contribute something to a major open source project
+* Make a personal website
+* Contribute to an open source project

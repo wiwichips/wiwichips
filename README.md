@@ -1,6 +1,6 @@
 ### Will Kantor Pringle
 
-☀ Looking for Winter 2021 and Summer 2021 internships! ☀
+❄️ Looking for Winter 2021 and Summer 2021 internships! ☀
 
 🎯 Summer Goals 🎯
 - [x] [Participate in a Hackathon](https://github.com/wiwichips/MOMU)

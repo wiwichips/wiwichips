@@ -3,7 +3,7 @@
 <body>
   <tr>
     <td class="tg-0lax"><a href="https://raw.githubusercontent.com/wiwichips/resume/main/resume.pdf">Check out my Resume</a></td>
-    <td class="tg-0lax">Title?</td>
+    <td class="tg-0lax">Other places you can find me</td>
   </tr>
   <tr>
     <td class="tg-0pky">

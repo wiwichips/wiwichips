@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td class="tg-0pky">
-      <a href="https://raw.githubusercontent.com/wiwichips/resume/main/resume.pdf"><img src="https://user-images.githubusercontent.com/18359452/226206968-afb5e89c-4867-4945-b697-6a10f63772a1.png" ></img></a>
+      <a href="https://raw.githubusercontent.com/wiwichips/resume/main/resume.pdf"><img src="https://github.com/user-attachments/assets/10ea638e-7c1f-4d67-bc43-13b808857d9b" ></img></a>
     </td>
     <td class="tg-0lax">
       <a href="https://www.linkedin.com/in/will-pringle/"><img src="https://github.com/wiwichips/wiwichips/assets/18359452/c56c506b-8de9-490b-93eb-1f5c63b080c9" ></img></a>
